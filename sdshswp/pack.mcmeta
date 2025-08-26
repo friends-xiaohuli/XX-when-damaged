@@ -1,0 +1,20 @@
+{
+	"pack": {
+	  "pack_format": 81,
+	  "supported_formats": {
+		"min_inclusive": 81,
+		"max_inclusive": 81
+	  },
+	  "description": [
+		{
+		  "text": "受到伤害就删物品",
+		  "color": "#FFCCFF"
+		},
+		{
+		  "text": "\nby 霜澪是只白狐ya",
+		  "color": "#66CCFF"
+		}
+	  ]
+	}
+  }
+  
