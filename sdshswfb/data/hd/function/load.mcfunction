@@ -4,5 +4,5 @@ function hd:ini
 # title @a subtitle [{"text": "by:霜澪是只白狐ya","color": "gray"}]
 
 
-tellraw @a [{"text": "Double the number of injured creatures数据包加载完成！","bold": true,"color": "gray"}]
+tellraw @a [{"text": "Biological doubling when damaged数据包加载完成！","bold": true,"color": "gray"}]
 

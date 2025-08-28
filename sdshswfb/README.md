@@ -1,4 +1,4 @@
-# Double the number of injured creatures
+# Biological doubling when damaged
 
  受伤生物数量翻倍
 
@@ -8,4 +8,4 @@
 
 感谢游玩。
 
-bilibili：@霜澪是只白狐ya
+bilibili：[@霜澪是只白狐ya](https://space.bilibili.com/515094027)
