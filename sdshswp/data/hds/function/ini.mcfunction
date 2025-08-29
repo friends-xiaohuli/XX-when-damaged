@@ -10,6 +10,8 @@ scoreboard objectives remove hds_d
 
 scoreboard objectives remove hds_set 
 
+scoreboard objectives remove hds_player
+
 
 scoreboard objectives add hds_hurt minecraft.custom:minecraft.damage_taken
 
@@ -22,6 +24,8 @@ scoreboard objectives add hds_set dummy
 scoreboard players set act hds_set 1
 
 scoreboard players set mode hds_set 1
+
+scoreboard objectives add hds_player dummy
 
 
 # function hds:debug
