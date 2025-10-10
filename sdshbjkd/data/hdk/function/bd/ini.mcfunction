@@ -1,5 +1,5 @@
 
-worldborder add 1
+worldborder add 1 1
 
 scoreboard players remove @s hdk_bd 1
 
