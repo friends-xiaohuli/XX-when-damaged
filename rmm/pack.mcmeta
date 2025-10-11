@@ -1,0 +1,20 @@
+{
+	"pack": {
+	  "pack_format": 81,
+	  "supported_formats": {
+		"min_inclusive": 81,
+		"max_inclusive": 81
+	  },
+	  "description": [
+		{
+		  "text": "吃东西就会随机生成生物",
+		  "color": "#FFCCFF"
+		},
+		{
+		  "text": "\nby 霜澪是只白狐ya",
+		  "color": "#66CCFF"
+		}
+	  ]
+	}
+  }
+  
